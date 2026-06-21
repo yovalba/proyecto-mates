@@ -1,0 +1,1 @@
+Este es un fichero de texto creado desde GIT a través de VIM; con el propósito de conocer los comandos de VIM.
