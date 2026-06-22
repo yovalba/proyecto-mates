@@ -1,1 +1,1 @@
-print("Hola mundo")
+print("Esto es un script para derivadas")
