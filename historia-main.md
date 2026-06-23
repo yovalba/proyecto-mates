@@ -1,6 +1,6 @@
 # Historia de la rama main
 
-Hace unas semanas este curso empezo y dentro de poco acabará...
+Este curso se ha realizado en el mes de junio del 2026.
 
 ## Inicios de la rama
 
